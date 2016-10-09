@@ -1,0 +1,2 @@
+COMP3431_VR/comp3431_emu:COMP3431_VR/oculus_headtracking:COMP3431_VR/pointcloud_to_mesh:oculus/oculus:oculus/oculus_driver:oculus/oculus_msgs:oculus/oculus_viewer
+-DCATKIN_DEVEL_PREFIX=/home/rsa/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rsa/catkin_ws/install -G Unix Makefiles

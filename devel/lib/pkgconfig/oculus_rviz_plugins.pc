@@ -1,0 +1,8 @@
+prefix=/home/rsa/catkin_ws/devel
+
+Name: oculus_rviz_plugins
+Description: Description of oculus_rviz_plugins
+Version: 0.0.9
+Cflags: -I/home/rsa/catkin_ws/src/oculus_rviz_plugins/include -I/opt/ros/indigo/lib/cmake/OculusSDK/../../../include/OculusSDK/Include
+Libs: -L/home/rsa/catkin_ws/devel/lib -loculus_rviz_plugins -lovr
+Requires: rviz

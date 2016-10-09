@@ -1,0 +1,8 @@
+prefix=/home/rsa/catkin_ws/install
+
+Name: pointcloud_to_mesh
+Description: Description of pointcloud_to_mesh
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/rsa/catkin_ws/install/lib 
+Requires: 
